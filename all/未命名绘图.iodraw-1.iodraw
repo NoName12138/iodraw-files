@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="995BkmJv5dowVuWmHr81-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="370" width="40" height="110" as="geometry" />
+        <mxCell id="995BkmJv5dowVuWmHr81-1" value="添加学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-2" value="功能模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-6" value="成绩模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="995BkmJv5dowVuWmHr81-7" value="添加学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="995BkmJv5dowVuWmHr81-8" value="添加学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
