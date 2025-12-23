@@ -10,8 +10,14 @@
         <mxCell id="995BkmJv5dowVuWmHr81-2" value="功能模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="995BkmJv5dowVuWmHr81-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="995BkmJv5dowVuWmHr81-3" value="学生模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="995BkmJv5dowVuWmHr81-4" value="成绩模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="995BkmJv5dowVuWmHr81-5" value="成绩模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
