@@ -11,7 +11,7 @@
           <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-3" value="学生模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-4" value="成绩模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="90" height="30" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-9" value="列出学生" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="995BkmJv5dowVuWmHr81-10" value="添加学生" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
