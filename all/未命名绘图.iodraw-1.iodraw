@@ -17,7 +17,10 @@
           <mxGeometry x="280" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-5" value="成绩模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="460" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="995BkmJv5dowVuWmHr81-6" value="成绩模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
