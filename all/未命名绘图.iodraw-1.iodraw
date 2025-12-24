@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Dv9iyRhCpuomHn95Dbe-1" value="查询单个学生" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="190" y="370" width="40" height="110" as="geometry" />
+          <mxGeometry x="210" y="530" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
