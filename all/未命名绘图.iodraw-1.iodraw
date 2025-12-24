@@ -46,11 +46,8 @@
         <mxCell id="995BkmJv5dowVuWmHr81-15" value="科目统计" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="551" y="360" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="995BkmJv5dowVuWmHr81-16" value="修改课程" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="995BkmJv5dowVuWmHr81-16" value="总分统计" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="606" y="360" width="40" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="995BkmJv5dowVuWmHr81-17" value="列出课程" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="656" y="360" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-18" value="加载数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="766" y="360" width="40" height="110" as="geometry" />
@@ -140,12 +137,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="626" y="360" as="sourcePoint" />
             <mxPoint x="676" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="995BkmJv5dowVuWmHr81-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.633;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="995BkmJv5dowVuWmHr81-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="676" y="360" as="sourcePoint" />
-            <mxPoint x="726" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="995BkmJv5dowVuWmHr81-6" edge="1">
