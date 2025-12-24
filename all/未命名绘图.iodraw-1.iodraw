@@ -160,8 +160,14 @@
             <mxPoint x="820" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Dv9iyRhCpuomHn95Dbe-1" value="查询单个学生" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="-Dv9iyRhCpuomHn95Dbe-1" value="列出全部学生" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="-20" y="360" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-Dv9iyRhCpuomHn95Dbe-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="360" as="sourcePoint" />
+            <mxPoint x="50" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
