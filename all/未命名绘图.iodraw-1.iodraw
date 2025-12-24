@@ -40,10 +40,10 @@
         <mxCell id="995BkmJv5dowVuWmHr81-12" value="修改成绩" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="340" y="360" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="995BkmJv5dowVuWmHr81-14" value="添加课程" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="995BkmJv5dowVuWmHr81-14" value="查看排名" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="500" y="360" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="995BkmJv5dowVuWmHr81-15" value="删除课程" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="995BkmJv5dowVuWmHr81-15" value="科目统计" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="551" y="360" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-16" value="修改课程" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
