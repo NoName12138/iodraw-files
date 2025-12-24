@@ -17,7 +17,7 @@
           <mxGeometry x="265" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-5" value="查询统计模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="551" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="511" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-6" value="数据持久化模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="766" y="260" width="90" height="30" as="geometry" />
@@ -41,13 +41,13 @@
           <mxGeometry x="340" y="360" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-14" value="查看排名" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="500" y="360" width="40" height="110" as="geometry" />
+          <mxGeometry x="460" y="360" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-15" value="科目统计" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="551" y="360" width="40" height="110" as="geometry" />
+          <mxGeometry x="511" y="360" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-16" value="总分统计" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="606" y="360" width="40" height="110" as="geometry" />
+          <mxGeometry x="566" y="360" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-18" value="加载数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="766" y="360" width="40" height="110" as="geometry" />
@@ -123,20 +123,20 @@
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="995BkmJv5dowVuWmHr81-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="516" y="360" as="sourcePoint" />
-            <mxPoint x="566" y="310" as="targetPoint" />
+            <mxPoint x="476" y="360" as="sourcePoint" />
+            <mxPoint x="526" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="995BkmJv5dowVuWmHr81-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="566" y="360" as="sourcePoint" />
-            <mxPoint x="616" y="310" as="targetPoint" />
+            <mxPoint x="526" y="360" as="sourcePoint" />
+            <mxPoint x="576" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.578;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="995BkmJv5dowVuWmHr81-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="626" y="360" as="sourcePoint" />
-            <mxPoint x="676" y="310" as="targetPoint" />
+            <mxPoint x="586" y="360" as="sourcePoint" />
+            <mxPoint x="636" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="995BkmJv5dowVuWmHr81-6" edge="1">
