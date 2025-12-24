@@ -20,7 +20,7 @@
           <mxGeometry x="511" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-6" value="数据持久化模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="766" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="640" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-7" value="修改学生" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="130" y="360" width="40" height="110" as="geometry" />
@@ -49,11 +49,11 @@
         <mxCell id="995BkmJv5dowVuWmHr81-16" value="总分统计" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="566" y="360" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="995BkmJv5dowVuWmHr81-18" value="加载数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="766" y="360" width="40" height="110" as="geometry" />
+        <mxCell id="995BkmJv5dowVuWmHr81-18" value="JSON导入导出" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="640" y="360" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-19" value="保存数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="816" y="360" width="40" height="110" as="geometry" />
+          <mxGeometry x="690" y="360" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="995BkmJv5dowVuWmHr81-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -141,14 +141,14 @@
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="995BkmJv5dowVuWmHr81-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="786" y="360" as="sourcePoint" />
-            <mxPoint x="836" y="310" as="targetPoint" />
+            <mxPoint x="660" y="360" as="sourcePoint" />
+            <mxPoint x="710" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="995BkmJv5dowVuWmHr81-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="995BkmJv5dowVuWmHr81-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="836" y="360" as="sourcePoint" />
-            <mxPoint x="886" y="310" as="targetPoint" />
+            <mxPoint x="710" y="360" as="sourcePoint" />
+            <mxPoint x="760" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Dv9iyRhCpuomHn95Dbe-1" value="列出全部学生" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
